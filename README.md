@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) | [Python Core Page](https://github.com/Nikita-devel/Python_Core)
+
 # Birthday Greetings
 
 This Python script checks and prints the upcoming birthdays for the current week and the next week. It considers the weekdays and weekends and outputs the names of users whose birthdays fall within these periods.
